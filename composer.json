@@ -1,0 +1,16 @@
+{
+    "name": "vendor/mvc",
+    "autoload": {
+        "psr-4": {
+           "App\\":"./",
+           "App\\Core\\":"core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "PouyaniArmin",
+            "email": "pouyaniarmin@gmial.com"
+        }
+    ],
+    "require": {}
+}
