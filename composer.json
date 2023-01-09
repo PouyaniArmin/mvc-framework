@@ -5,6 +5,8 @@
            "App\\":"./",
            "App\\Core\\":"core/",
            "App\\Core\\Form\\":"core/form",
+           "App\\Core\\Middlewares\\":"core/middlewares",
+           "App\\Core\\Exception\\":"core/exception",
            "App\\Controllers\\":"controllers/",
            "App\\Models\\":"models/"
         }
